@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\dell\\desktop\\new folder\\.net\\taskmanagementapi\\taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\dell\\desktop\\new folder\\.net\\taskmanagementapi\\taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\dell\\desktop\\new folder\\.net\\taskmanagementapi\\taskmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\dell\\desktop\\new folder\\.net\\taskmanagementapi\\taskmanagementapi\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\dell\\desktop\\new folder\\.net\\taskmanagementapi\\taskmanagementapi\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|c:\\users\\dell\\desktop\\new folder\\.net\\taskmanagementapi\\taskmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E674DE9-82D4-4AAA-B70B-5976A2ED79E7}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Models\\User.cs",
+              "RelativeToolTip": "TaskManagementApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:31:48.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Program.cs",
+              "RelativeToolTip": "TaskManagementApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:21:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagementApi\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:56:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagementApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:42:23.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\DataStore.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\DataStore.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\DataStore.cs",
+              "RelativeToolTip": "TaskManagementApi\\DataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:39:23.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Models\\TodoTask.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Models\\TodoTask.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\New folder\\.net\\TaskManagementApi\\TaskManagementApi\\Models\\TodoTask.cs",
+              "RelativeToolTip": "TaskManagementApi\\Models\\TodoTask.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:32:17.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
